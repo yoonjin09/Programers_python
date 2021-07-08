@@ -75,3 +75,15 @@ int(tmp,3) 이게 무엇인지 아는가. tmp가 숫자로 이루어진 str 이�
 여기에서 주로 사용한 method 는 from itertools import combinations, set, [x+y for x,y in temp] 등이다. 간단하게 코딩할 때 유용한 method들이다.
 
 이제 2번 반복했으니 계속해서 반복하다보면 조금 더 쉽게 다가갈 수 있을 것 같다.
+
+## 2021-07-08 목요일
+
+실패율 계산하기
+
+그냥 문제푸는 것은 그렇게 어렵지 않았다 하지만 파이썬 특성 상 시간이 좀 걸린다는 것을 간과했다. 
+
+level1_11을 보면 get을 사용하는 것이 나오는 데 다시 확인을 해보겠다. 일단 링크는 관련 링크는 걸어둔다. 
+
+https://wikidocs.net/16
+
+보니 dictionary에 관련된 것이었다.
